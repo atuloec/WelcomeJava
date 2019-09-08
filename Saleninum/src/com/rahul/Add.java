@@ -1,3 +1,4 @@
+package com.rahul;
 class add
 {
    public static void main(String args[])
