@@ -1,11 +1,11 @@
 package com.rahul;
-class add
+public class Add
 {
    public static void main(String args[])
    {
-   int a=10;
-   String c="10";
-   int c=a+b;
-   System.out.println(c);
+	   int a=10;
+	   String b="10";
+	   String c=a+b;
+	   System.out.println(c);
    }
 }
